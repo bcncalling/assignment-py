@@ -17,8 +17,8 @@ Follow these steps to deploy the application:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/axrav/assignment.git
-   cd assignment
+   git clone https://github.com/axrav/assignment-py.git
+   cd assignment-py
    ```
 2. Edit the .env file to configure the application settings, such as the MongoDB URI and any other environment-specific variables.
     ```# MongoDB URI
